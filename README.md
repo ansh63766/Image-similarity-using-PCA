@@ -31,3 +31,16 @@ Evaluate the classification accuracy.
 Instead of storing only one representative image, store the first two principal components (PC1 and PC2) for each subject.
 Use these two representative images to classify the original images.
 Evaluate the classification accuracy based on these two representative images.
+
+## Results:
+
+### Without PCA correctly classified images:
+ 63
+
+### With 1 PC correctly classified images:
+ 75
+
+### With 2 PCs correctly classified images:
+ 88
+
+ ![image](https://github.com/ansh63766/Image-similarity-using-PCA/assets/113677013/3998e46f-1486-46f7-87d5-47f9fb849a1c)
